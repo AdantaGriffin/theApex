@@ -1,0 +1,21 @@
+.header{
+    height: 10vh;
+    color: red;
+    background-color: black;
+    
+    .headerLogo{
+        display: grid;
+        grid-template-rows: 1fr 1fr;
+        height: 100%;
+        a{
+            color: red;
+            text-decoration: none;
+        }
+        h1{
+            font: {
+                size: 1.6em;
+                family: "Amarante"
+            }
+        }
+    }
+}
