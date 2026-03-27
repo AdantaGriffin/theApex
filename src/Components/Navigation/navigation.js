@@ -1,7 +1,6 @@
 
 import styles from './navigation.module.scss';
 import React from 'react';
-import { Link } from 'react-router-dom';
 import {HashLink} from 'react-router-hash-link';
 
 function Navigation(){
