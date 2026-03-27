@@ -1,5 +1,5 @@
 {
-    "artwork":[
+    "paint":[
         {
             "id":"art1",
             "title":"Salvator Mundi",
@@ -13,7 +13,7 @@
             "title":"Interchange",
             "artist":"Williem de Kooning",
             "price":300000000,
-            "image":"./artImages/salvatorMundi.jpg",
+            "image":"./artImages/interchange.jpg",
             "description":""
         },
         {
@@ -21,7 +21,7 @@
             "title":"The Card Players",
             "artist":"Paul Cézanne",
             "price":300000000,
-            "image":"",
+            "image":"./artImages/cardPlayers.jpeg",
             "description":""
         },
         {
@@ -29,7 +29,7 @@
             "title":"Nafea Faa Ipopo (Will You Marry Me)",
             "artist":"Paul Gauguin",
             "price":210000000,
-            "image":"",
+            "image":"./artImages/marryMe.avif",
             "description":""
         },
         {
@@ -37,7 +37,7 @@
             "title":"Number 17A",
             "artist":"Jackson Pollock",
             "price":200000000,
-            "image":"",
+            "image":"./artImages/number17a.jpg",
             "description":""
         },
         {
@@ -45,7 +45,7 @@
             "title":"The Standard Bearer",
             "artist":"Rembrandt",
             "price":198000000,
-            "image":"",
+            "image":"./artImages/rembrandtBearer.jpeg",
             "description":""
         },
         {
@@ -53,7 +53,7 @@
             "title":"Shot Sage Blue Marilyn",
             "artist":"Andy Whorhol",
             "price":195000000,
-            "image":"",
+            "image":"./artImages/shotSage.avif",
             "description":""
         },
         {
@@ -61,7 +61,7 @@
             "title":"No.6 (Violet, Green and Red)",
             "artist":"Mark Rothko",
             "price":186000000,
-            "image":"",
+            "image":"./artImages/no6.jpg",
             "description":""
         },
         {
@@ -69,7 +69,7 @@
             "title":"Les Femmes d'Alger (Version O)",
             "artist":"Pablo Picasso",
             "price":179000000,
-            "image":"",
+            "image":"./artImages/femmesAlger.jpg",
             "description":""
         },
         {
@@ -77,7 +77,7 @@
             "title":"Nu couché",
             "artist":"Amedeo Modigliani",
             "price":170000000,
-            "image":"",
+            "image":"./artImages/nuCouche.jpg",
             "description":""
         },
         {
@@ -85,7 +85,7 @@
             "title":"Masterpeice",
             "artist":"Roy Lichtenstein",
             "price":165000000,
-            "image":"",
+            "image":"./artImages/masterpiece.jpg",
             "description":""
         },
         {
@@ -93,7 +93,7 @@
             "title":"Three Studies of Lucian Freud",
             "artist":"Francis Bacon",
             "price":142000000,
-            "image":"",
+            "image":"./artImages/threeStudies.avif",
             "description":""
         },
         {
@@ -101,7 +101,7 @@
             "title":"Portrait of AdeleBloch-Bauer I",
             "artist":"Gustav Klimt",
             "price":135000000,
-            "image":"",
+            "image":"./artImages/adelPortrait.jpg",
             "description":""
         },
         {
@@ -109,7 +109,7 @@
             "title":"Water Serpents II",
             "artist":"Gustav Klimt",
             "price":11200000,
-            "image":"",
+            "image":"./artImages/",
             "description":""
         },
         {
@@ -117,1063 +117,504 @@
             "title":"The Scream",
             "artist":"Edvard Much",
             "price":120000000,
-            "image":"",
+            "image":"./artImages/serpents2.jpg",
             "description":""
         }
     ],
-    "collectables":[
+    "sculptures":[
         {
-            "id":"collect1",
-            "title":"Pikachu Illustrator",
-            "price":16500000,
-            "description":"",
-            "image":""
+            "id":"art16",
+            "title":"L'Homme audoigt",
+            "artist":"Alberto Giacometti",
+            "price":141300000,
+            "image":"./artImages/auDoigt.webp",
+            "description":""
         },
         {
-            "id":"collect2",
-            "title":"1952 Topps Mickey Mantle #311",
+            "id":"art17",
+            "title":"L'Homme qui marche I",
+            "artist":"Alberto Giacometti",
+            "price":104300000,
+            "image":"./artImages/quiMarche.jpg",
+            "description":""
+        },
+        {
+            "id":"art18",
+            "title":"Chariot",
+            "artist":"Alberto Giacometti",
+            "price":450000000,
+            "image":"./artImages/chariot.jpeg",
+            "description":""
+        },
+        {
+            "id":"art19",
+            "title":"Rabbit",
+            "artist":"Jeff Koons",
+            "price":91100000,
+            "image":"./artImages/rabbit.jpg",
+            "description":""
+        },
+        {
+            "id":"art20",
+            "title":"Le Nez",
+            "artist":"Alberto Giacometti",
+            "price":450000000,
+            "image":"./artImages/leNez.jpg",
+            "description":""
+        },
+        {
+            "id":"art21",
+            "title":"Ballon Dog",
+            "artist":"Jeff Koons",
+            "price":58400000,
+            "image":"./artImages/baloonDog.avif",
+            "description":""
+        },
+        {
+            "id":"art22",
+            "title":"Grande tête mince",
+            "artist":"Alberto Giaconetti",
+            "price":53000000,
+            "image":"./artImages/grandTete.jpg",
+            "description":""
+        },
+        {
+            "id":"art23",
+            "title":"Artemis and the stag",
+            "artist":"unknown",
+            "price":28600000,
+            "image":"./artImages/stag.jpeg",
+            "description":""
+        },
+        {
+            "id":"art24",
+            "title":"Guennol Lioness",
+            "artist":"unknown",
+            "price":57200000,
+            "image":"./artImages/lioness.webp",
+            "description":""
+        },
+        {
+            "id":"art25",
+            "title":"Madamme L.R.",
+            "artist":"Constatin Brâcuși",
+            "price":37000000,
+            "image":"./artImages/madammeLR.jpg",
+            "description":""
+        },
+        {
+            "id":"art26",
+            "title":"Bird in Space",
+            "artist":"Constatin Brâcuși",
+            "price":27500000,
+            "image":"./artImages/birdInSpace.jpeg",
+            "description":""
+        },
+        {
+            "id":"art27",
+            "title":"Tête",
+            "artist":"Amedeo Modigliani",
+            "price":70700000,
+            "image":"./artImages/tete.jpeg",
+            "description":""
+        },
+        {
+            "id":"art28",
+            "title":"Danaide",
+            "artist":"Constatin Brâcuși",
+            "price":18000000,
+            "image":"./artImages/danaide.jpg",
+            "description":""
+        },
+        {
+            "id":"art29",
+            "title":"Walking Man",
+            "artist":"Auguste Rodin",
+            "price":19000000,
+            "image":"./artImages/walkingMan.jpeg",
+            "description":""
+        },
+        {
+            "id":"art30",
+            "title":"Him",
+            "artist":"Maurizio Cattelan",
+            "price":17000000,
+            "image":"./artImages/him.jpg",
+            "description":""
+        }
+    ],
+    "sportTrading":[
+        {
+            "id":"art31",
+            "title":"2007 Upper Deck Exquisite Kobe Bryant / Michael Jordan Dual Logoman Auto (1/1)",
+            "artist":"Michael Jordan / Kobe Bryant",
+            "price":12930000,
+            "image":"./tradingCard/mjkobe2007.jpeg",
+            "description":""
+        },
+        {
+            "id":"art32",
+            "title":"1952 Topps Mickey Mantle (SGC 9.5)",
+            "artist":"Mickey Mantle",
             "price":12600000,
-            "description":"",
-            "image":""
+            "image":"./tradingCard/mickeyMantleSGC95.jpeg",
+            "description":""
         },
         {
-            "id":"collect3",
-            "title":"T206 Honus Waner",
+            "id":"art33",
+            "title":"T206 Honus Wagner",
+            "artist":"Honus Wagner",
             "price":7250000,
-            "description":"",
-            "image":""
+            "image":"./tradingCard/wagner725.jpg",
+            "description":""
         },
         {
-            "id":"collect4",
-            "title":"Lebron James Rookie Patch Autograph",
-            "price":5200000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":"collect5",
-            "title":"1952 Topps Mickey Mantle (PSA9)",
-            "price":5200000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":"collect6",
-            "title":"Luka Dončić Rookie Logoman Autograph 1/1",
-            "price":4600000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":"collect7",
-            "title":"Patrick Mahomes Rookie Autograph",
-            "price":4300000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":"collect8",
-            "title":"1933 Goudey Babe Ruth #53",
-            "price":4200000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":"collect9",
-            "title":"Mike Trout 2009 Bowman Chrome Draft Superfractor",
-            "price":3900000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":"collect10",
-            "title":"1951 Bowman Micket Mantle Rookie Card",
-            "price":3900000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":"collect11",
-            "title":"Alpha Black Lotus",
-            "price":3000000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":"collect12",
-            "title":"Shohei Ohtani Topps Chrome Gold Logoman",
-            "price":3000000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":"collect13",
-            "title":"Ohtani & Aaron Judge dual Logoman Auto",
-            "price":2160000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":"collect14",
-            "title":"Honus Wagner T206 PSA(2)",
-            "price":3750000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":"collect15",
-            "title":"Stephen Curry Rookie Logoman Auto 1/1",
+            "id":"art34",
+            "title":"Stephen Curry rookie Logoman Auto (1/1)",
+            "artist":"Stephen Curry",
             "price":5900000,
-            "description":"",
-            "image":""
-        }
-    ],
-    "locations":[
-        {
-            "id":1,
-            "title":"Monaco",
-            "description":"The most expensice Real Estate in the world 5-8 k per square feet",
-            "image":""
+            "image":"./tradingCard/curryRookiePatch.jpg",
+            "description":""
         },
         {
-            "id":2,
-            "title":"Hong Kong",
-            "description":"Sky-High apartments and limited space",
-            "image":""
+            "id":"art35",
+            "title":"Lebron James Rookie Patch Auto",
+            "artist":"Lebron James",
+            "price":"",
+            "image":"./tradingCard/lebronRookiePatch.png",
+            "description":""
         },
         {
-            "id":3,
-            "title":"New York City",
-            "description":"Billionairs Row, Central Park Views",
-            "image":""
+            "id":"art36",
+            "title":"Luka Dončić Rookie Logoman Auto (1/1)",
+            "artist":"Luka Dončić",
+            "price":4600000,
+            "image":"./tradingCard/lukaRookieLogoman.jpeg",
+            "description":""
         },
         {
-            "id":4,
-            "title":"London",
-            "description":"Prime area like Mayfai, Knightsbridge",
-            "image":""
+            "id":"art37",
+            "title":"Patrick Mahomes Rookie Logoman Auto (1/1)",
+            "artist":"Patrick Mahomes",
+            "price":4300000,
+            "image":"./tradingCard/mahomesRookie.jpeg",
+            "description":""
         },
         {
-            "id":5,
-            "title":"Geneva",
-            "description":"Wealth hub with limited housing supply",
-            "image":""
+            "id":"art38",
+            "title":"1933 Goudey Babe Ruth #53 (PSA9)",
+            "artist":"Babe Ruth",
+            "price":4200000,
+            "image":"./tradingCard/babeRuth53.webp",
+            "description":""
         },
         {
-            "id":6,
-            "title":"Singapore",
-            "description":"One of Asia's most expensive housing markets",
-            "image":""
+            "id":"art39",
+            "title":"Mike Trout 2009 Bowman Chrome Superfractor Auto (1/1)",
+            "artist":"Mike Trout",
+            "price":3900000,
+            "image":"./tradingCard/mikeTrout2009Bowman.jpg",
+            "description":""
         },
         {
-            "id":7,
-            "title":"Paris",
-            "description":"Historic Luxury Real Estate",
-            "image":""
+            "id":"art40",
+            "title":"",
+            "artist":"",
+            "price":"",
+            "image":"./artImages/",
+            "description":""
         },
         {
-            "id":8,
-            "title":"Saint-Tropez",
-            "description":"Celebrity Vacation Spot",
-            "image":""
+            "id":"art41",
+            "title":"Wayne Gretzky rookie (O-Pee-Chee PSA 10)",
+            "artist":"",
+            "price":"",
+            "image":"./tradingCard/wayneGretzky.webp",
+            "description":""
         },
         {
-            "id":9,
-            "title":"Lake Como",
-            "description":"Ultra luxury villas and scenic views",
-            "image":""
-        },
-        {
-            "id":10,
-            "title":"Aspen",
-            "description":"Ski resort for Billionaires",
-            "image":""
-        },
-        {
-            "id":11,
-            "title":"Dubai",
-            "description":"Luxury sky scrapers, tax free apeal",
-            "image":""
-        },
-        {
-            "id":12,
-            "title":"The Hamptons",
-            "description":"Summer homes for NYC elite",
-            "image":""
-        },
-        {
-            "id":13,
-            "title":"Tokyo",
-            "description":"Prime district like Minato",
-            "image":""
-        },
-        {
-            "id":14,
-            "city":"Saint Barts",
-            "country":"",
-            "description":"Ultr Exclusive Island Living",
-            "image":""
-        },
-        {
-            "id":15,
-            "city":"Zurich",
-            "country":"Switzerland",
-            "description":"High income and limited space, expensive!!",
-            "image":""
-        }
-    ],
-    "jewelry":[
-        {
-            "id":1,
-            "title":"Hope Diamond",
-            "price":250000000,
-            "description":"Most famous and valuable jewel in the world.",
-            "image":""
-        },
-        {
-            "id":2,
-            "title":"Peacock Brooch",
-            "price":10000000,
-            "description":"Over 1,300 diamonds in one peice.",
-            "image":""
-        },
-        {
-            "id":3,
-            "title":"Wittlebach-Graff Diamond",
-            "price":80000000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":4,
-            "title":"Pink Star Diamond",
-            "price":71200000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":5,
-            "title":"Oppenheimer Blue Diamond",
-            "price":57000000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":6,
-            "title":"Williamson Pink Star Diamond",
-            "price":57700000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":7,
-            "title":"De Beers Blue Diamond",
-            "price":57500000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":8,
-            "title":"L'Incomparable Diamond Necklace",
-            "price":55000000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":9,
-            "title":"Blue Moon of Josephine",
-            "price":48400000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":10,
-            "title":"Princie Diamond",
-            "price":39300000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":11,
-            "title":"Orange Diamond",
-            "price":36000000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":12,
-            "title":"Marie Antoinetter Pearl Pendent",
-            "price":36200000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":13,
-            "title":"Memory of autumn leaves and dream of autumn leaves (pair)",
-            "price":57400000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":14,
-            "title":"Graff Pink Diamond",
-            "price":46000000,
-            "description":"",
-            "image":""
-        },
-        {
-            "id":15,
-            "title":"Hutto-Mdvivani Jadeite Necklace",
+            "id":"art42",
+            "title":"Shohei Ohtani Topps Chrome Gold Logoman Auto (1/1)",
+            "artist":"Shohei Ohtani",
             "price":3000000,
-            "description":"",
-            "image":""
+            "image":"./tradingCard/ohtaniTopps.jpg",
+            "description":""
+        },
+        {
+            "id":"art43",
+            "title":"2013 Aaron Judge Bowman Chrome Draft Superfractor Auto (1/1)",
+            "artist":"Aaron Judge",
+            "price":5200000,
+            "image":"./tradingCard/judge2013.webp",
+            "description":""
+        },
+        {
+            "id":"art44",
+            "title":"Tom Brady 2000 Playoff Contenders Championship Ticket Auto",
+            "artist":"Tom Brady",
+            "price":2300000,
+            "image":"./tradingCard/brady2013.webp",
+            "description":""
+        },
+        {
+            "id":"art45",
+            "title":"Giannis Antetokounmpo National Treasure Rookie Patch Logoman Auto (1/1)",
+            "artist":"Giannis Antetokounmpo",
+            "price":2000000,
+            "image":"./tradingCard/giannisRookie.jpg",
+            "description":""
         }
     ],
-    "food":[
+    "pokemon":[
         {
-            "id":1,
-            "region":"Iran",
-            "title":"Almas Caviar",
-            "price":"25,000 per kg",
-            "description":"Rarest sturgeon eggs, gold tinned.",
-            "image":""
+            "id":"art46",
+            "title":"Pikachu Illustrator (PSA 10)",
+            "artist":"Pikachu",
+            "price":16500000,
+            "image":"./pokemon/pikachu.webp",
+            "description":""
         },
         {
-            "id":2,
-            "region":"Italy",
-            "title":"White Truffles",
-            "price":"7,500 per lb",
-            "description":"Highlu aromatic and seasonal.",
-            "image":""
+            "id":"art47",
+            "title":"Trophy Pikachu No. 2 Trainer (PSA10)",
+            "artist":"Pikachu",
+            "price":900000,
+            "image":"./pokemon/pikachuTrainer.jpeg",
+            "description":""
         },
         {
-            "id":3,
-            "region":"Japan",
-            "title":"Yabari King Melons",
-            "price":"27,000 (pair)",
-            "description":"Sweetest, perfectly round Japanese melons.",
-            "image":""
+            "id":"art48",
+            "title":"Shadowless Charizard 1st Edition (PSA10)",
+            "artist":"Charizard",
+            "price":550000,
+            "image":"./pokemon/charizard1.webp",
+            "description":""
         },
         {
-            "id":4,
-            "region":"Japan",
-            "title":"Bluefin Tuna",
-            "price":"3,000,000",
-            "description":"Prized for sushi and sashimi.",
-            "image":""
+            "id":"art49",
+            "title":"Shadowless Blastoise 1st Edition (PSA10)",
+            "artist":"Blastoise",
+            "price":412000,
+            "image":"./pokemon/blastois1999.webp",
+            "description":""
         },
         {
-            "id":5,
-            "region":"Japan",
-            "title":"Fugu (Putterfish)",
-            "price":"300 per serving",
-            "description":"Deadly if not prepared correctly.",
-            "image":""
+            "id":"art50",
+            "title":"Shadowless Venusaur 1st Edition (PSA10)",
+            "artist":"Venusaur",
+            "price":387000,
+            "image":"./tradingCard/",
+            "description":""
         },
         {
-            "id":6,
-            "region":"Japan",
-            "title":"Wagyu Beef",
-            "price":"500 per lb",
-            "description":"Famous for marbling and tendernous",
-            "image":""
+            "id":"art51",
+            "title":"Shinning Charizard 1st Edition (PSA9)",
+            "artist":"Charizard",
+            "price":287000,
+            "image":"./pokemon/shiningCharizard.jpg",
+            "description":""
         },
         {
-            "id":7,
-            "region":"Spain",
-            "title":"Iberico de Bellota (Ham)",
-            "price":"1,000 per lb",
-            "description":"Acorn fed pigs, aged 36 + months.",
-            "image":""
+            "id":"art52",
+            "title":"Neo Genesis Lugia 1st Edition (PSA10)",
+            "artist":"Lugia",
+            "price":144000,
+            "image":"./pokemon/lugia.webp",
+            "description":""
         },
         {
-            "id":8,
-            "region":"China",
-            "title":"Bird Nest Soup",
-            "price":"3,000 per kg",
-            "description":"Made from swiftlet saliva, prixed in chinese cuisine.",
-            "image":""
+            "id":"art53",
+            "title":"Charizard Gold Star (PSA10)",
+            "artist":"Charizard",
+            "price":60000,
+            "image":"./pokemon/goldstarCharizard.jpg",
+            "description":""
         },
         {
-            "id":9,
-            "region":"Iran",
-            "title":"Saffron",
-            "price":"10,000 per lb",
-            "description":"Hand harvested sitgma of saffrom crocus.",
-            "image":""
+            "id":"art54",
+            "title":"Umbreon Gold Star (PSA10)",
+            "artist":"Umbreon",
+            "price":48500,
+            "image":"./pokemon/umbreon.jpeg",
+            "description":""
         },
         {
-            "id":10,
-            "region":"New York City",
-            "title":"Frrrozen Haute Chocolate",
-            "price":"25,000",
-            "description":"Gold, 28 rare cocas, 5g edible 24 karat gold",
-            "image":""
+            "id":"art55",
+            "title":"Rayquaza Gold Star (PSA10)",
+            "artist":"Rayquaza",
+            "price":45000,
+            "image":"./pokemon/rayquaza.jpeg",
+            "description":""
         },
         {
-            "id":11,
-            "region":"Madagascar",
-            "title":"Vanilla",
-            "price":"600 per lb",
-            "description":"Highlky labor intensive and weather sensitive.",
-            "image":""
+            "id":"art56",
+            "title":"Mew Two 1st Edition (PSA10)",
+            "artist":"Mew Two",
+            "price":30000,
+            "image":"./pokemon/mewtwo.webp",
+            "description":""
         },
         {
-            "id":12,
-            "region":"Pule",
-            "title":"Siberia",
-            "price":"1,300 per lb",
-            "description":"Made with 60% Balkan donkey milk and 40% goat's milk",
-            "image":""
+            "id":"art57",
+            "title":"Charizard Topsun Blue Back (1997 Japanese, PSA10)",
+            "artist":"Charizard",
+            "price":493000,
+            "image":"./pokemon/charizardBlue.jpg",
+            "description":""
         },
         {
-            "id":13,
-            "region":"Italy",
-            "title":"Casu Marzu",
-            "price":"60 per lb",
-            "description":"Traditional cheese made with live larvae.",
-            "image":""
+            "id":"art58",
+            "title":"Blastoise Commissioned Presentation Galaxy Star Holo 1998",
+            "artist":"Blastoise",
+            "price":360000,
+            "image":"./pokemon/blastoiseGalaxyStar.avif",
+            "description":""
         },
         {
-            "id":14,
-            "region":"France",
-            "title":"Louis XIII Black Pearl Cognac",
-            "price":"50,000 (750ml)",
-            "description":"Aged up to 100 years, hand blended.",
-            "image":""
+            "id":"art59",
+            "title":"Charizard No Rarity Symbol Holo (1996 Japanese Base Set PSA10)",
+            "artist":"Charizard",
+            "price":324000,
+            "image":"./pokemon/charizard1996.jpg",
+            "description":""
         },
         {
-            "id":15,
-            "region":"FleurBurger 5000",
-            "title":"New York City",
-            "price":"5,000",
-            "description":"Wagyu beef, fois gras, truffles, paired with wine.",
-            "image":""
+            "id":"art60",
+            "title":"Snap Pikachu (1999 Promo, PSA Authentic)",
+            "artist":"Pikachu",
+            "price":270000,
+            "image":"./pokemon/snapPikachu.jpg",
+            "description":""
+        },
+        {
+            "id":"art61",
+            "title":"Ishira GX Promo (PSA10)",
+            "artist":"Ishira",
+            "price":"",
+            "image":"./pokemon/ishira.jpg",
+            "description":""
         }
     ],
-    "projects":[
-        {
-            "id":1,
-            "name":"Internation Space Station",
-            "region":"Space",
-            "country":"International",
-            "description":"Largest man made structure in space, international collaboration.",
-            "cost":"150,000,000,000"
-        },
-        {
-            "id":2,
-            "name":"King Abdullah Economic City",
-            "region":"Saudi Arabia",
-            "country":"Saudi Arabia",
-            "description":"MAssive urban development including residential, commercial and port areas.",
-            "cost":"100,000,000,000"
-        },
-        {
-            "id":3,
-            "name":"Al Maktoum International Airport",
-            "region":"Dubai",
-            "country":"UAE",
-            "description":"Planned to be the largest airport with multi phase construction.",
-            "cost":"82,000,000,000"
-        },
-        {
-            "id":4,
-            "name":"Dubailand",
-            "region":"Dubai",
-            "country":"UAE",
-            "description":"Huge entertainment, theme parks, resorts, and inrastucture project.",
-            "cost":"64,000,000,000"
-        },
-        {
-            "id":5,
-            "name":"Hong Kong-Zhihai-Acau Bridge",
-            "region":"Hong Kong",
-            "country":"China",
-            "description":"55 km bridge tunnel system connecting three cities.",
-            "cost":"20,000,000,000"
-        },
-        {
-            "id":6,
-            "name":"Channel Tunnel (Eurotunnel)",
-            "region":"United Kingdom to France",
-            "country":"United Kingdom to France",
-            "description":"Undersea rail tunnel linking UK and continential Europe.",
-            "cost":"21,000,000,000"
-        },
-        {
-            "id":7,
-            "name":"Abraj Al-Bait Towers",
-            "region":"Mecca",
-            "country":"Saudi Arabia",
-            "description":"Luxury hotels, residential and clock tower near the Grand Mosque",
-            "cost":"15,000,000,000"
-        },
-        {
-            "id":8,
-            "name":"Marina Bay Sands",
-            "region":"Singapore",
-            "country":"Singapore",
-            "description":"Intergrated resort with hotels, casino, sky park and convention center.",
-            "cost":"5,500,000,000"
-        },
-        {
-            "id":9,
-            "name":"One World Trade Center",
-            "region":"New York City",
-            "country":"Unitied States",
-            "description":"Rebuuilt iconic skyscrappers post 9/11 with advanced safety features.",
-            "cost":"3,900,000,000"
-        },
-        {
-            "id":10,
-            "name":"The Cosmopolitan",
-            "region":"Las Vegas",
-            "country":"United States",
-            "description":"Luxury resort, casino and residences.",
-            "cost":"3,900,000,000"
-        },
-        {
-            "id":11,
-            "name":"Three Gorges Dam",
-            "region":"Hubei",
-            "country":"China",
-            "description":"World largest hydroelectric power station.",
-            "cost":"28,000,000,000"
-        },
-        {
-            "id":12,
-            "name":"Itaipu Dam",
-            "region":"Brazil / Paraguay",
-            "country":"Brazil / Paraguay",
-            "description":"Massive hydroelectric projects with binational cooperation.",
-            "cost":"23,000,000,000"
-        },
-        {
-            "id":13,
-            "name":"King Salman Park",
-            "region":"Riyadh",
-            "country":"Saudi Arabia",
-            "description":"Huge Urban Park and development project.",
-            "cost":"23,000,000,000"
-        },
-        {
-            "id":14,
-            "name":"Palm Jumerah",
-            "region":"Dubai",
-            "country":"UAE",
-            "description":"Artificial islands shaped like a palm tree, luxury residence hotels.",
-            "cost":"12,000,000,000"
-        },
-        {
-            "id":15,
-            "name":"Songdo International Business District",
-            "region":"",
-            "country":"South Korea",
-            "description":"Smart city built from scratch on reclaimed land.",
-            "cost":"40,000,000,000"
-        }
-    ],
-    "properties":[
-        {
-            "id":1,
-            "name":"Antila",
-            "city":"Mumbai",
-            "country":"India",
-            "description":"Owned by Mukesh Ambani, 27 floors, helipads, luxury amnenities",
-            "price":"2,000,000,000"
-        },
-        {
-            "id":2,
-            "name":"Villa Leopolda",
-            "city":"French Riviera",
-            "country":"France",
-            "description":"Historic mansion with sprawling gardens beachfront.",
-            "price":"750,000,000"
-        },
-        {
-            "id":3,
-            "name":"The One",
-            "city":"Bel-Air, Los Angeles",
-            "country":"United States",
-            "description":"Mega mansion, over 100,000 sqft, nightclubs, pools.",
-            "price":"500,000,000"
-        },
-        {
-            "id":4,
-            "name":"Fair Field",
-            "city":"Sagaponack, New York",
-            "country":"United States",
-            "description":"Owned by the Tisch family, huge estate with multible buildings.",
-            "price":"248,000,000"
-        },
-        {
-            "id":5,
-            "name":"Les Palais Bulles",
-            "city":"French Riviera",
-            "country":"France",
-            "description":"Bubble shaped architechture, seaside cliffs.",
-            "price":"390,000,000"
-        },
-        {
-            "id":6,
-            "name":"Ellison Estate",
-            "city":"Woodside, Califonia",
-            "country":"United States",
-            "description":"Owned by Larry Ellison, Japanese inspired gardens.",
-            "price":"200,000,000"
-        },
-        {
-            "id":7,
-            "name":"Witanhurst",
-            "city":"London",
-            "country":"United Kingdom",
-            "description":"London;s second largest private home, Georgian architechture.",
-            "price":"450,000,000"
-        },
-        {
-            "id":8,
-            "name":"Horshoe Bay Estate",
-            "city":"Bermuda",
-            "country":"Bermuda",
-            "description":"Private island estate with luxury marina.",
-            "price":"150,000,000"
-        },
-        {
-            "id":9,
-            "name":"One Hyde Park Penthouse",
-            "city":"London",
-            "country":"United Kingdom",
-            "description":"Ultra exclusive apartments with concierge service",
-            "price":"237,000,000"
-        },
-        {
-            "id":10,
-            "name":"Penthouse",
-            "city":"Tour Ordeon",
-            "country":"Monaco",
-            "description":"Multi floor penthouse, Mediterranian views, luxury interior",
-            "price":"400,000,000"
-        },
-        {
-            "id":11,
-            "name":"432 Park Avenue",
-            "city":"New York City",
-            "country":"United States",
-            "description":"Full floor units, ultra modern skyscraper residence.",
-            "price":"90,000,000 - 100,000,000"
-        },
-        {
-            "id":12,
-            "name":"Château Lois XIV",
-            "city":"Cannes",
-            "country":"France",
-            "description":"Neo classical palace, royal style interiors, sprawling grounds.",
-            "price":"300,000,000"
-        },
-        {
-            "id":13,
-            "name":"Hearst Castle",
-            "city":"San Simeon, California",
-            "country":"United States",
-            "description":"Historic masion, luxury estate, private tours.",
-            "price":"191,000,000"
-        },
-        {
-            "id":14,
-            "name":"Villa La Fleur",
-            "city":"Beverly Hills, Califonia",
-            "country":"United States",
-            "description":"Modern mega masion, luxury amenities",
-            "price":"150,000,000"
-        },
-        {
-            "id":15,
-            "name":"Sky Penthouse",
-            "city":"London",
-            "country":"Unkited Kingdom",
-            "description":"Super luxuryhigh rise penthouse with panoramic views.",
-            "price":"160,000,000"
-        }
-    ],
-    "social":[
-        {
-            "id":1,
-            "city":"Miami",
-            "country":"USA",
-            "name":"LIV",
-            "details":"VIP table minimum: 10k-100k",
-            "description":"Celeberities and athletes frequent, bottle service can skyrocket prices.",
-            "image":""
-        },
-        {
-            "id":2,
-            "city":"Las Vegas",
-            "country":"USA",
-            "name":"Hakkasan",
-            "details":"VIP table minimum: 20k-100k",
-            "description":"Ultra exclusive events and celeberity DJ's.",
-            "image":""
-        },
-        {
-            "id":3,
-            "city":"Las Vegas",
-            "country":"USA",
-            "name":"Omnia",
-            "details":"VIP table minimum: 15k-75k",
-            "description":"Know for chandliers, LED walls and top DJ's.",
-            "image":""
-        },
-        {
-            "id":4,
-            "city":"Las Vegas",
-            "country":"USA",
-            "name":"Drai's",
-            "details":"VIP table minimum: 10k-60k",
-            "description":"Rooftop club with pool and live performances.",
-            "image":""
-        },
-        {
-            "id":5,
-            "city":"London",
-            "country":"UK",
-            "name":"Bootsy Bellows",
-            "details":"VIP table minimum:",
-            "description":"Celeberity hot spot with 1960's Hollywood theme.",
-            "image":""
-        },
-        {
-            "id":6,
-            "city":"Dubai",
-            "country":"UAE",
-            "name":"Cavalli Club",
-            "details":"VIP table minimum: 15k-80k",
-            "description":"Glamorous decor, luxury clientel.",
-            "image":""
-        },
-        {
-            "id":7,
-            "city":"London",
-            "country":"UK",
-            "name":"The Club at The Ivy",
-            "details":"Entry + table: 5k-50k",
-            "description":"Exclusive celeberity attended hot spot.",
-            "image":""
+    "coins":[
+        {
+            "id":"art62",
+            "title":"1933 Saint-Gaudens Double Eagle",
+            "artist":"USA",
+            "price":18900000,
+            "image":"./coins/1933saintGaudens.png",
+            "description":""
         },
-        {
-            "id":8,
-            "city":"London / New York / Las Vegas",
-            "country":"UK / USA",
-            "name":"1 OAK",
-            "details":"VIP table minimum: 10k-70k",
-            "description":"World wide luxury brand with exclusive agents.",
-            "image":""
-        },
-        {
-            "id":9,
-            "city":"Dubai",
-            "country":"UAE",
-            "name":"White",
-            "details":"VIP table minimum: 10k-50k",
-            "description":"High end DJ's, rooftop views, private cabanas.",
-            "image":""
-        },
-        {
-            "id":10,
-            "city":"Dubai",
-            "country":"UAE",
-            "name":"Billionaires Mansion",
-            "details":"VIP table minimum: 20k-200k",
-            "description":"Ultra luxury club for elite clients.",
-            "image":""
-        },
-        {
-            "id":11,
-            "city":"Singapore / Las Vegas",
-            "country":"Singapore / USA",
-            "name":"Marquee",
-            "details":"VIP table minimum: 10k-60k",
-            "description":"Multi level nightclub with pool decks and world class DJ's.",
-            "image":""
-        },
-        {
-            "id":12,
-            "city":"Singapore",
-            "country":"Singapore",
-            "name":"Cé La Vie",
-            "details":"VIP table minimum: 10k-60k",
-            "description":"Famous rooftop views and celeberity appearance.",
-            "image":""
-        },
-        {
-            "id":13,
-            "city":"Ibiza",
-            "country":"Spain",
-            "name":"Pacha",
-            "details":"VIP table minimum: 5k-50k",
-            "description":"Legendary Ibiza club, iconic DJ's.",
-            "image":""
-        },
-        {
-            "id":14,
-            "city":"Las Vegas",
-            "country":"USA",
-            "name":"XS",
-            "details":"VIP table minimum: 15k-75k",
-            "description":"Ultra luxury, indoor + poolside options.",
-            "image":""
-        },
-        {
-            "id":15,
-            "city":"Las Vegas",
-            "country":"USA",
-            "name":"Surrender Nightclub",
-            "details":"VIP table minimum: 10k-60k",
-            "description":"Intergrated with Encore Beach Club for high end clientele.",
-            "image":""
-        }
-    ],
-    "salaries":[
-        {
-            "id":1,
-            "profession":"Soccer",
-            "name":"Lionel Messi",
-            "team":"Inter Miami",
-            "income":" 160,000,000 (Salary + Bonuses + Endorsements)",
-            "image":""
-        },
-        {
-            "id":2,
-            "profession":"Soccer",
-            "name":"Cristiano Ronaldo",
-            "team":"Al-Nassr",
-            "contract":"150,000,000 per year",
-            "image":""
-        },
-        {
-            "id":3,
-            "profession":"Basketball",
-            "name":"Lebron James",
-            "team":"Los Angeles Lakers",
-            "contract":"120,000,000 (Salary + Endorsements)",
-            "image":""
-        },
-        {
-            "id":4,
-            "profession":"Basketball",
-            "name":"Stephen Curry",
-            "team":"Golden State Warriors",
-            "contract":"100,000,000",
-            "image":""
-        },
-        {
-            "id":5,
-            "profession":"American Football",
-            "name":"Patrick Mahomes",
-            "team":"Kansas City Cheifs",
-            "contract":"90,000,000",
-            "image":""
-        },
-        {
-            "id":6,
-            "profession":"Tennis",
-            "name":"Roger Federer",
-            "team":"retired",
-            "contract":"100,000,000 (Endorsements)",
-            "image":""
-        },
-        {
-            "id":7,
-            "profession":"Golf",
-            "name":"Tiger Woods",
-            "team":"",
-            "contract":"90,000,000",
-            "image":""
-        },
-        {
-            "id":8,
-            "profession":"Actor",
-            "name":"Dwayne 'The Rock' Johnson",
-            "team":"",
-            "contract":"90,000,000",
-            "image":""
-        },
-        {
-            "id":9,
-            "profession":"Entertainer",
-            "name":"Kylie Jenner",
-            "team":"",
-            "contract":"90,000,000 (Business + Media)",
-            "image":""
-        },
-        {
-            "id":10,
-            "profession":"Entertainer",
-            "name":"Taylor Swift",
-            "team":"",
-            "contract":"80,000,000 (Tours, Streams, Merchandise)",
-            "image":""
-        },
-        {
-            "id":11,
-            "profession":"Entrepneur",
-            "name":"Elon Musk",
-            "team":"",
-            "contract":"23,760 (last know salary without Equity) ",
-            "image":""
+        {
+            "id":"art63",
+            "title":"1794 Flowing Hair Silver Dollar",
+            "artist":"USA",
+            "price":12000000,
+            "image":"./coins/flowingHair.jpeg",
+            "description":""
         },
-        {
-            "id":12,
-            "profession":"CEO",
-            "name":"Tim Cook",
-            "team":"",
-            "contract":"100,000,000 (Salary + Equity)",
-            "image":""
-        },
-        {
-            "id":13,
-            "profession":"CEO",
-            "name":"Sundar Pichai",
-            "team":"",
-            "contract":"280,000,000 (total 2023)",
-            "image":""
-        },
-        {
-            "id":14,
-            "profession":"CEO",
-            "name":"Satya Nadella",
-            "team":"",
-            "contract":"70,000,000",
-            "image":""
-        },
-        {
-            "id":15,
-            "profession":"CEO",
-            "name":"Mark Zuckerberg",
-            "team":"",
-            "contract":"100,000,000 (Salary + Stock Grants)",
-            "image":""
-        }
-    ],
-    "transport":[
-        {
-            "id":1,
-            "type":"VIP Private Jet",
-            "name":"Airbus A380",
-            "description":"Ultra luxury customization for billionaires.",
-            "image":"",
-            "price":"500,000,000 (baseline)"
-        },
-        {
-            "id":2,
-            "type":"VIP Jet",
-            "name":"Boeing 747-8 VIP",
-            "description":"Private 'Flying Palace' for heads of state & ultra rich",
-            "image":"",
-            "price":"367,000,000"
-        },
-        {
-            "id":3,
-            "type":"Private Jet",
-            "name":"Gulfstream G700",
-            "description":"Longest range private jet with full luxury interior.",
-            "image":"",
-            "price":"75,000,000"
-        },
-        {
-            "id":4,
-            "type":"Private Jet",
-            "name":"Bombardier Global 8000",
-            "description":"State of the art private jet with boasting range and speed",
-            "image":"",
-            "price":"73,000,000"
-        },
-        {
-            "id":5,
-            "type":"Yacht",
-            "name":"History Supreme Yacht",
-            "description":"Claimed as the world most expensive yacht, gold and platnium plated interior.",
-            "image":"",
-            "price":"4,500,000,000"
-        },
-        {
-            "id":6,
-            "type":"Yacht",
-            "name":"Eclipse Yacht",
-            "description":"533 feet with missle defense and 2 helipads.",
-            "image":"",
-            "price":"1,500,000,000"
-        },
-        {
-            "id":7,
-            "type":"Yacht",
-            "name":"Azzam Yacht",
-            "description":"590 feet, fastest mega yacht in the world.",
-            "image":"",
-            "price":"600,000,000"
-        },
-        {
-            "id":8,
-            "type":"Yacht",
-            "name":"Topaz Yacht",
-            "description":"483 feet luxury super yacht.",
-            "image":"",
-            "price":"527,000,000"
-        },
-        {
-            "id":9,
-            "type":"Car",
-            "name":"Bugatti La Voiture Noire",
-            "description":"One off hypercar, worlds most expensive new car.",
-            "image":"",
-            "price":"18,900,000"
-        },
-        {
-            "id":10,
-            "type":"Car",
-            "name":"Rolls Royce Boat Tail",
-            "description":"Bespoke luxury car, hand crafted for billionaires.",
-            "image":"",
-            "price":"28,000,000"
-        },
-        {
-            "id":11,
-            "type":"Car",
-            "name":"Pagani Zonda HP Barchetta",
-            "description":"Rare limited edition hyper car",
-            "image":"",
-            "price":"17,500,000"
-        },
-        {
-            "id":12,
-            "type":"Train",
-            "name":"The Maharajas Express",
-            "description":"luxury train suite for royal treatment across India",
-            "image":"",
-            "price":"9,000"
-        },
-        {
-            "id":13,
-            "type":"Train",
-            "name":"Venice Simplon-Orient-Express",
-            "description":"Historic luxury train, art deco interiors",
-            "image":"",
-            "price":""
-        },
-        {
-            "id":14,
-            "type":"Special",
-            "name":"SpaceX Crew Dragon",
-            "description":"Civillian Spaceflight experience.",
-            "image":"",
-            "price":"55,000,000"
-        },
-        {
-            "id":15,
-            "type":"Special",
-            "name":"Virgin Galactic Spaceflight Ticket",
-            "description":"Commercial suborbital space tourism.",
-            "image":"",
-            "price":"450,000-600,000"
+        {
+            "id":"art64",
+            "title":"1804 Silver Dollar (Class 1)",
+            "artist":"USA",
+            "price":7700000,
+            "image":"./coins/1804SilverDollar.avif",
+            "description":""
+        },
+        {
+            "id":"art65",
+            "title":"1787 Brasher Doubloon",
+            "artist":"USA",
+            "price":9360000,
+            "image":"./coins/brasher.jpg",
+            "description":""
+        },
+        {
+            "id":"art66",
+            "title":"1913 Liberty Head Nickel",
+            "artist":"",
+            "price":4560000,
+            "image":"./coins/libertyHead.jpg",
+            "description":""
+        },
+        {
+            "id":"art67",
+            "title":"2007 1miilion Gold Canadian Leaf",
+            "artist":"Canada",
+            "price":4000000,
+            "image":"./coins/goldLeaf.jpg",
+            "description":""
+        },
+        {
+            "id":"art68",
+            "title":"1792 Washington $10 Prefederal (rare US)",
+            "artist":"USA",
+            "price":1740000,
+            "image":"./coins/1792Washington.jpeg",
+            "description":""
+        },
+        {
+            "id":"art69",
+            "title":"1804 Bust Dollar",
+            "artist":"USA",
+            "price":4140000,
+            "image":"./coins/bustDollar.avif",
+            "description":""
+        },
+        {
+            "id":"art70",
+            "title":"Umayyad Gold Dinar",
+            "artist":"Egypt",
+            "price":6000000,
+            "image":"./coins/goldDinar.jpg",
+            "description":""
+        },
+        {
+            "id":"art71",
+            "title":"$10 Dollar Proof Eagle",
+            "artist":"USA",
+            "price":5000000,
+            "image":"./coins/10dollarEagle.jpg",
+            "description":""
+        },
+        {
+            "id":"art72",
+            "title":"Single 9 Pond",
+            "artist":"South Africa",
+            "price":4000000,
+            "image":"./coins/1pond.jpg",
+            "description":""
+        },
+        {
+            "id":"art73",
+            "title":"1343 Edward Florin (Double Leopold, England)",
+            "artist":"England",
+            "price":8000000,
+            "image":"./coins/1343Edward.jpeg",
+            "description":""
+        },
+        {
+            "id":"art74",
+            "title":"Roman Gold Aurus of Brutus",
+            "artist":"Rome",
+            "price":4000000,
+            "image":"./coins/brutusGold.jpg",
+            "description":""
+        },
+        {
+            "id":"art75",
+            "title":"1496 Denmark 'Noble' (Medival Scadinavian)",
+            "artist":"Denmark",
+            "price":1330000,
+            "image":"./coins/1496Denmark.webp",
+            "description":""
+        },
+        {
+            "id":"art76",
+            "title":"Tenshō Hishi Oban",
+            "artist":"Japan",
+            "price":1900000,
+            "image":"./coins/tensho.jpg",
+            "description":""
         }
     ]
 }

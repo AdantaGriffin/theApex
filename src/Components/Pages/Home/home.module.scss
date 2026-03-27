@@ -13,6 +13,11 @@ section{
 
     .card{
         box-shadow: 1px 1px 40px gold;
+        border: 1px solid white;
+        height: 100% !important;
+        width: 370px;
+        margin: 2%;
+        scroll-snap-align: center;
     }
 
     .hero{
@@ -66,24 +71,15 @@ section{
                 width: 20000px;
                 padding: 0;
                 margin: 0;
-
-
-                .card{
-                    border: 1px solid black;
-                    height: 90%;
-                    width: 370px;
-                    margin: 2%;
-                    scroll-snap-align: center;
-                }
             }
         }
     }
 
-    .collectables{
+    .sculptures{
         background-color: black;
         height: 100%;
 
-        .collectablesContainer{
+        .sculpturesContainer{
             height: 90%;
             width: 90%;
             padding: 5%;
@@ -92,7 +88,7 @@ section{
             scroll-snap-type: x mandatory;
             scroll-behavior: smooth;
 
-            .collectablesList{
+            .sculpturesList{
                 height: 90%;
                 list-style: none;
                 display: flex;
@@ -113,11 +109,11 @@ section{
         }
     }
 
-    .locations{
+    .sportCards{
         background-color: black;
         height: 100%;
 
-        .locationsContainer{
+        .sportCardsContainer{
             height: 90%;
             width: 90%;
             padding: 5%;
@@ -126,7 +122,7 @@ section{
             scroll-snap-type: x mandatory;
             scroll-behavior: smooth;
 
-            .locationsList{
+            .sportCardsList{
                 height: 90%;
                 list-style: none;
                 display: flex;
@@ -134,24 +130,15 @@ section{
                 width: 20000px;
                 padding: 0;
                 margin: 0;
-
-
-                .card{
-                    border: 1px solid black;
-                    height: 90%;
-                    width: 370px;
-                    margin: 2%;
-                    scroll-snap-align: center;
-                }
             }
         }
     }
 
-    .jewlery{
+    .pokemon{
         background-color: black;
         height: 100%;
 
-        .jewleryContainer{
+        .pokemonContainer{
             height: 90%;
             width: 90%;
             padding: 5%;
@@ -160,7 +147,7 @@ section{
             scroll-snap-type: x mandatory;
             scroll-behavior: smooth;
 
-            .jewleryList{
+            .pokemonList{
                 height: 90%;
                 list-style: none;
                 display: flex;
@@ -168,24 +155,15 @@ section{
                 width: 20000px;
                 padding: 0;
                 margin: 0;
-
-
-                .card{
-                    border: 1px solid black;
-                    height: 90%;
-                    width: 370px;
-                    margin: 2%;
-                    scroll-snap-align: center;
-                }
             }
         }
     }
 
-    .food{
+    .coins{
         background-color: black;
         height: 100%;
 
-        .foodContainer{
+        .coinsContainer{
             height: 90%;
             width: 90%;
             padding: 5%;
@@ -194,7 +172,7 @@ section{
             scroll-snap-type: x mandatory;
             scroll-behavior: smooth;
 
-            .foodList{
+            .coinsList{
                 height: 90%;
                 list-style: none;
                 display: flex;
